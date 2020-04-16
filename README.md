@@ -1,1 +1,1 @@
-# Bank-Marketting
+# Bank-Marketing
