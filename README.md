@@ -1,1 +1,2 @@
 # Bank-Marketing
+This project has been done for the course named "Data mining: concept learning" Supervised by Olubisi Runsewe. In this project Bank-Marketing dataset of UCI machine learning repositories has been used. Different kinds of classifiers are implied on this dataset to see how all the datasets perform over this dataset. Also, different kinds of pre processing approaches are implied to improve the evaluation metrics (Sensitvity). 
